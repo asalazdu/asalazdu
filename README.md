@@ -2,9 +2,12 @@
    <img  src="https://github.com/asalazdu/asalazdu/blob/main/github-header-image%20(3).png"></img>
 </p>
 
-- 💬 Ask me about **Html, Css, angular, VueJs**
+# About Me...
 
-- 📫 How to reach me **alexizarduque@gmail.com**
+I am a front-end developer with experience in **Angular, Vue.js, JavaScript, Node.js, Html, CSS, and SCSS** and database connections such as SQL, MySQL, and Firebase. I am passionate about creating engaging and intuitive user interfaces that meet the users' needs. I am constantly learning and growing and I am interested in working on challenging, high-quality projects.
+
+📫 How to reach me **alexizarduque@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
