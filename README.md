@@ -1,4 +1,6 @@
-<img  src="https://github.com/asalazdu/asalazdu/blob/main/github-header-image%20(1).png"></img>
+<p align="center">
+   <img  src="https://github.com/asalazdu/asalazdu/blob/main/github-header-image%20(1).png"></img>
+</p>
 
 - 💬 Ask me about **Html, Css, angular, VueJs**
 
