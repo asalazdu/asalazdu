@@ -1,5 +1,4 @@
-<h1 align="center">Hola 👋, soy Alexis</h1>
-<h3 align="center">Frontend Developer</h3>
+<img  src="C:\Users\matias\Downloads\github-header-image (1).png" />
 
 - 💬 Ask me about **Html, Css, angular, VueJs**
 
